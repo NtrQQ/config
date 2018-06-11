@@ -1,0 +1,2 @@
+# config
+Configs of NtrQQ
