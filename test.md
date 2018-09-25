@@ -23,7 +23,10 @@ Curriculum: https://www.iniad.org/en/curriculum/
 
 Mathematical equations using LaTeX format:  
 
-ex.$\int_{-\infty}^{\infty} sinx^2dx = \sqrt{\frac{\pi}{2}}$
+ex.
+```latex
+\int_{-\infty}^{\infty} sinx^2dx = \sqrt{\frac{\pi}{2}}
+```
 
 References to LaTeX format:
 - https://en.wikibooks.org/wiki/LeTeX/Mathematics
