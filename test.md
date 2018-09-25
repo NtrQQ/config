@@ -14,5 +14,5 @@
 4. Information Networking Social Infrastructure
  - Infrastructure services & Quality of living
 
-Homepage: https://www.iniad.org/
+Homepage: https://www.iniad.org/  
 Curriculum: https://www.iniad.org/en/curriculum/
