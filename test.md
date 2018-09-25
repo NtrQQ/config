@@ -16,3 +16,21 @@
 
 Homepage: https://www.iniad.org/  
 Curriculum: https://www.iniad.org/en/curriculum/
+  
+(以下は発展課題 / The following is an advanced assignment)
+
+------------
+
+Mathematical equations using LaTeX format:  
+
+ex.$\int_{-\infty}^{\infty} sinx^2dx = \sqrt{\frac{\pi}{2}}$
+
+References to LaTeX format:
+- https://en.wikibooks.org/wiki/LeTeX/Mathematics
+
+Table:
+
+| TH1  | TH2 |
+| ------------- | ------------- |
+| TD11  | TD12  |
+| TD21  | TD22  |
